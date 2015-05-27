@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.GlutenFreePizza">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/glutenpizzaTitle"
+        android:id="@+id/glutenpizzaTitle"
+        android:textSize="20sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:id="@+id/glutenpizzaPic"
+        android:src="@drawable/gluten2"
+        android:cropToPadding="true"
+        android:contentDescription="@string/glutenpizzaPic"
+        android:layout_below="@+id/glutenpizzaTitle"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/glutenpizza_recipe"
+        android:id="@+id/glutenpizzaText"
+        android:textSize="8sp"
+        android:layout_below="@+id/ingglutenpizza"
+        android:layout_alignRight="@+id/ingglutenpizza"
+        android:layout_alignEnd="@+id/ingglutenpizza"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ingText"
+        android:id="@+id/ingglutenpizza"
+        android:textSize="25sp"
+        android:layout_below="@+id/glutenpizzaPic"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/glutenpizza_directions"
+        android:id="@+id/glutenpizza_directions"
+        android:textSize="10sp"
+        android:singleLine="false"
+        android:layout_below="@+id/glutenpizzaText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"/>
+
+</RelativeLayout>

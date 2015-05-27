@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Lunch Buttons -->
+    <string name="greenpepperButton">GREEN PEPPER BARLEY SALAD</string>
+    <string name="bisonButton">BARBECUE BISON STUFFED SWEET POTATO</string>
+    <string name="fishButton">GRILLED FISH SOFT TACOS</string>
+    <string name="redpearButton">RED PEAR AND PROSCIUTTO SKEWERS</string>
+    <string name="creamyButton">CREAMY PARMESAN CHICKEN</string>
+    <string name="tangyButton">TANGY PINEAPPLE CHICKEN</string>
+    <string name="chickenButton">CHICKEN A LA KING</string>
+    <string name="greekButton">GREEK CHICKEN</string>
+    <string name="title_activity_green_pepper_salad">GreenPepperSalad</string>
+    <string name="title_activity_green_pepper_bison">GreenPepperBison</string>
+    <string name="bisonTitle">SPICY BARBECUE BISON STUFFED SWEET POTATO</string>
+    <string name="title_activity_red_pear">RedPear</string>
+    <string name="title_activity_fish_tacos">FishTacos</string>
+    <string name="fishtacoTitle">Grilled Fish Tacos</string>
+    <string name="redpearTitle">RED PEAR AND PROSCIUTTO SKEWERS</string>
+    <string name="title_activity_creamy_chicken">CreamyChicken</string>
+    <string name="creamchickenTitle">CREAMY PARMESAN CHICKEN</string>
+    <string name="title_activity_tangy_chicken">TangyChicken</string>
+    <string name="tangychickenTitle">TANGY PINEAPPLE CHICKEN</string>
+    <string name="title_activity_la_king">LaKing</string>
+    <string name="lakingTitle">CHICKEN A LA KING</string>
+    <string name="title_activity_greek_chicken">GreekChicken</string>
+    <string name="greekTitle">GREEK CHICKEN</string>
+
+    <!-- Lunch Pics -->
+    <string name="greenpepperPic">greenpepperPic</string>
+    <string name="bisonPic">bisonPic</string>
+    <string name="fishtacoPic">fishtacoPic</string>
+    <string name="creamchickenPic">creamchickenPic</string>
+    <string name="tangychickenPic">tangychickenPic</string>
+    <string name="lakingPic">lakingPic</string>
+    <string name="greekPic">greekPic</string>
+
+    <!-- Lunch recipes -->
+    <string name="greenpepper_recipe">
+       • 2 cups water \n
+       • 1 cup barley \n
+       • 2 thinly sliced green peppers \n
+       • 1/2 diced onion \n
+       • 1/2 cup chopped parsley \n
+       • 2 tbsp. olive oil \n
+       • 1 tbsp. Italian salad dressing \n
+       • 1/4 tsp. pureed garlic
+    </string>
+    <string name="greenpepper_directions">
+       • Boil water in a saucepan over medium heat. \n
+       • Add the barley and then cover and let cook for 10-12 minutes. \n
+       • Meanwhile, slice the green peppers and dice the onion. Chop up parsley and then add ingredients to the cooked barley. \n
+       • Fluff with a fork to combine. \n
+       • In another bowl, combine together the olive oil, Italian salad dressing, and garlic. \n
+       • Drizzle over the mixture and then stir before serving.
+    </string>
+
+    <string name="bison_recipe">
+       • 6 oz lean bison flank steak \n
+       • 250g sweet potato \n
+       • 2 tbsp low-sodium Barbecue sauce \n
+    </string>
+    <string name="bison_directions">
+       • Set oven to 405 degrees. Puncture the raw sweet potato with a fork, and then wrap in foil. Place it in the oven to bake for 40-50 minutes. \n
+       • Cut bison flank steak into small pieces. Season with cayenne pepper, paprika, pepper, garlic powder, and onion powder. Once seasoned, rub 1 tbsp barbecue sauce on the bison pieces. \n
+       • Set a skillet on medium-high heat and lightly spray with coconut oil. Toss in bison flank steak. When nearly done, add 1 tbsp of barbecue sauce and reduce the heat to low.\n
+       • Place the barbecue bison on top of the sweet potato.
+    </string>
+
+
+    <string name="fishtaco_recipe">
+       • 1 tbsp olive oil     • 4 limes, halved, divided \n
+       • 5 cloves garlic, minced, divided     • 2 tsp ground cumin, divided \n
+       • 4 portions swordfish or tuna (about 1-1/2 lb)     • 1 ripe avocado, peeled, pitted and diced \n
+       • 1/4 red onion, minced     • 2 jalapenos, seeded and minced \n
+       • 2 tbsp fresh cilantro, chopped     • 8 6-inch flour tortillas \n
+       • 8 lettuce leaves
+    </string>
+    <string name="fishtaco_directions">
+       • Preheat grill to medium.
+       • Combine olive oil, juice of 3 limes, 4 garlic cloves, and 1 tsp cumin in a shallow bowl or pie plate. Then add fish to this marinade and let it soak up the flavors for 15 minutes at room temperature, turning once after about 7 minutes. \n
+       • While fish is marinating, in a separate small mixing bowl, stir together the remaining lime juice, garlic, and cumin with diced avocado, onion, jalapenos and cilantro. \n
+       • Place marinated fish on hot grill and cook for approximately 5 minutes, then turn and grill for approximately 5 more minutes, until opaque throughout. Place cooked fish on a cutting board, let it cool slightly, then slice into thin strips.\n
+       • While the grill is still hot, place tortillas directly on it and grill them for about 30 seconds on each side. \n
+       • Place two tortillas on each plate. Put a lettuce leaf in each tortilla, fill with a portion of grilled, sliced fish, and top with tangy avocado salsa. Fold the tortillas over, serve and enjoy!
+    </string>
+
+    <string name="redpear_recipe">
+       • 2 red pears \n
+       • Package of prosciutto \n
+       • Walden Farms balsamic vinegar \n
+       • 4 skewers
+    </string>
+    <string name="redpear_directions">
+       • Chop the pears into triangular wedges. \n
+       • Roll slices of prosciutto and then cut into halves. \n
+       • Alternate pears and prosciutto on the skewers. \n
+       • Plate and drizzle with balsamic vinegar.
+    </string>
+    <string name="creamchicken_recipe">
+       • 4, 3 oz. boneless skinless Chicken Breasts \n
+       • 1/4 cup Low-sodium Chicken Broth \n
+       • 1/2 tsp. minced Garlic \n
+       • 1/4 cup Fat-free Mayonnaise \n
+       • 1/8 cup Low-fat Parmesan Cheese
+    </string>
+    <string name="creamchicken_directions">
+       • Begin by heating the chicken broth in a pan over medium heat. \n
+       • Add in garlic along with chicken breasts, cooking until no longer pink inside, 8-10 minutes, flipping a few times throughout the cooking process. \n
+       • Meanwhile, in a small bowl, combine the mayonnaise with parmesan cheese. \n
+       • Once chicken is finished, remove and place on a baking sheet and smother with sauce. \n
+       • Place under the broiler for 1-2 minutes or until cheese is melted and chicken is slightly browned. \n
+       • Serve immediately.
+    </string>
+    <string name="tangychicken_recipe">
+       • 2 tbsp. Olive Oil \n
+       • 1 Onion, chopped \n
+       • 1 diced Yellow Pepper \n
+       • 12 oz. skinless Chicken Breasts \n
+       • 3 tbsp. reduced sugar Ketchup \n
+       • 2 tbsp. Soy Sauce \n
+       • 3 tbsp. Splenda \n
+       • 1/2 cup cubed Pineapple with 1/4 cup Pineapple Juice
+    </string>
+    <string name="tangychicken_directions">
+       • Heat olive oil in a pan on medium heat. \n
+       • Add in onions and peppers; saute until golden brown. \n
+       • Add chicken and continue to stir-fry until no longer pink inside. \n
+       • Combine together the ketchup, soy sauce, Splenda, and pineapple juice and add to the pan. \n
+       • Lower heat and cover, simmering for 20 minutes. \n
+       • Before serving, top with pineapple.
+    </string>
+    <string name="laking_recipe">
+       • 3 tbsp chopped onion \n
+       • 2 tbsp all-purpose flour \n
+       • 1 tsp salt \n
+       • 1 cup milk \n
+       • 1/2 pound cooked, cubed chicken meat \n
+       • 1 hard-boiled egg, sliced \n
+       • 1 1/3 cups cooked spinach \n
+       • 3 tbsp chopped onions
+    </string>
+    <string name="laking_directions">
+       • Place onion in a medium saucepan over low heat and sprinkle with flour and salt.  \n
+       • Stir together and add milk. Bring to a boil and cook until thickened. \n
+       • Mix in chicken, egg and spinach. Heat through and serve.
+    </string>
+    <string name="greek_recipe">
+       • 4 chicken breasts (boneless, 6oz each)  • 1/2 cup black olives \n
+       • 4 diced tomatoes                        • 1 cup crumbled low-fat Feta cheese \n
+       • 1/3 cup olive oil                       • 1 tsp garlic \n
+       • 1 tsp rosemary                          • 1 tsp thyme  \n
+       • 1 tsp oregano                           • 2 juiced lemons \n
+       • Black pepper
+    </string>
+    <string name="greek_directions">
+       • In a bowl, mix the olive oil, garlic, rosemary, thyme, oregano, pepper, and lemon juice. \n
+       • Cut the chicken into strips. Place the chicken strips, olives, and diced tomatoes in the olive oil mixture. Cover and marinate in the refrigerator 8 hours, or overnight. \n
+       • Preheat oven to 350 degrees F. \n
+       • Place chicken mixture in aluminum foil and, creating a pocket, add some of the marinade to keep it moist. \n
+       • Cook for about 30 minutes. \n
+       • Sprinkle with feta cheese before serving
+    </string>
+
+</resources>

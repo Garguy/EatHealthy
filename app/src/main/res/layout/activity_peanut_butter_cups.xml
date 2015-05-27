@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.PeanutButterCups">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/peanutcupsTitle"
+        android:id="@+id/peanutcupsTitle"
+        android:textSize="20sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:id="@+id/peanutcupsPic"
+        android:src="@drawable/dessert4"
+        android:cropToPadding="true"
+        android:contentDescription="@string/peanutcupsPic"
+        android:layout_below="@+id/peanutcupsTitle"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/peanutcups_recipe"
+        android:id="@+id/peanutcupsText"
+        android:textSize="8sp"
+        android:layout_below="@+id/ingpeanutcups"
+        android:layout_alignRight="@+id/ingpumkinpie"
+        android:layout_alignEnd="@+id/ingpeanutcups" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ingText"
+        android:id="@+id/ingpeanutcups"
+        android:textSize="25sp"
+        android:layout_below="@+id/peanutcupsPic"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/peanutcups_directions"
+        android:id="@+id/peanutcups_directions"
+        android:textSize="10sp"
+        android:singleLine="false"
+        android:layout_below="@+id/peanutcupsText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="8dp"/>
+
+</RelativeLayout>

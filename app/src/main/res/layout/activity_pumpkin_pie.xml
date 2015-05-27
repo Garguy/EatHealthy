@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.PumpkinPie">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/pumkinpieTitle"
+        android:id="@+id/pumkinpieTitle"
+        android:textSize="20sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:id="@+id/pumkinpiePic"
+        android:src="@drawable/dessert3"
+        android:cropToPadding="true"
+        android:contentDescription="@string/pumkinpiePic"
+        android:layout_below="@+id/pumkinpieTitle"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/pumkinpie_recipe"
+        android:id="@+id/pumkinpieText"
+        android:textSize="8sp"
+        android:layout_below="@+id/ingpumkinpie"
+        android:layout_alignRight="@+id/ingpumkinpie"
+        android:layout_alignEnd="@+id/ingpumkinpie" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ingText"
+        android:id="@+id/ingpumkinpie"
+        android:textSize="25sp"
+        android:layout_below="@+id/pumkinpiePic"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pumkinpie_directions"
+        android:id="@+id/pumkinpie_directions"
+        android:textSize="10sp"
+        android:singleLine="false"
+        android:layout_below="@+id/pumkinpieText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="8dp"/>
+
+</RelativeLayout>

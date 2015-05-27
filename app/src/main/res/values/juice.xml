@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="blackberryButton">Blackberry Pop</string>
+    <string name="buttershakeButton">CHOCOLATE PEANUT BUTTER SHAKE</string>
+    <string name="greenmealButton">LEAN AND GREEN MEAL REPLACEMENT SMOOTHIE</string>
+    <string name="pinacoladaButton">PINA COLADA</string>
+    <string name="cinnatoastButton">CINNAMON TOAST SHAKE</string>
+    <string name="v8Button">Original V-8 Recipe</string>
+    <string name="applecrispButton">Apple Crisp</string>
+    <string name="coconutButton">Coconut Splash</string>
+    <string name="title_activity_black_berry_pop">BlackBerryPop</string>
+    <string name="blackberryTitle">Blackberry Pop</string>
+    <string name="title_activity_butter_shake">ButterShake</string>
+    <string name="buttershakeTitle">CHOCOLATE PEANUT BUTTER SHAKE</string>
+    <string name="title_activity_green_meal">GreenMeal</string>
+    <string name="greenmealTitle">LEAN AND GREEN MEAL REPLACEMENT SMOOTHIE</string>
+    <string name="title_activity_pina_colada">PinaColada</string>
+    <string name="pinaTitle">PINA COLADA</string>
+    <string name="title_activity_cinna_toast">CinnaToast</string>
+    <string name="cinnaTitle">CINNAMON TOAST SHAKE</string>
+    <string name="title_activity_v8">V8</string>
+    <string name="v8Title">Original V-8 Recipe</string>
+    <string name="title_activity_apple_crisp">AppleCrisp</string>
+    <string name="appleTitle">Apple Crisp</string>
+    <string name="title_activity_coconut_splash">CoconutSplash</string>
+    <string name="coconutTitle">Coconut Splash</string>
+
+    <!-- Juice Pics -->
+    <string name="blackberryPic">blackberryPic</string>
+    <string name="buttershakePic">buttershakePic</string>
+    <string name="greenmealPic">greenmealPic</string>
+    <string name="pinaPic">pinaPic</string>
+    <string name="cinnaPic">cinnaPic</string>
+    <string name="v8Pic">v8Pic</string>
+    <string name="applePic">applePic</string>
+    <string name="coconutPic">coconutPic</string>
+
+    <!--Juice recipes -->
+    <string name="blackberry_recipe">
+       • Blackberry - 1 cup \n
+       • Kiwifruit - 1 \n
+       • Pear - 1 medium size \n
+       • Peppermint (optional) 10 leaves \n
+       • Quarter Pineapple (peeled, cored)
+    </string>
+    <string name="blackberry_directions">
+       • Process all ingredients in a juicer or blender(juicer is preferred method) \n
+       • Shake or stir and serve.
+    </string>
+    <string name="buttershake_recipe">
+       • cup almond milk \n
+       • 1/2 cup full-fat cottage cheese \n
+       • 3 tbsp peanut butter \n
+       • 2 scoops low-carb chocolate protein powder \n
+       • Additional no-carb sweetener to taste
+    </string>
+    <string name="buttershake_directions">
+       • Pour ingredients into blender. \n
+       • Blend until desired thickness. \n
+       • Enjoy!
+    </string>
+    <string name="greenmeal_recipe">
+       • 1 scoop Lean Body Natural Protein \n
+       • 1 cup chopped kale \n
+       • 1/2 small avocado \n
+       • 1/3 banana \n
+       • 1/4 cup pineapple \n
+       • 3 strawberries (raw or freshly frozen) \n
+       • Small bundle of wheatgrass (about 1/4 oz) \n
+       • 1/4 cup water \n
+    </string>
+    <string name="greenmeal_directions">
+       • Add ingredients to a blender and mix until smooth. \n
+       • Instead of using ice, you can freeze the fruit to chill the smoothie.
+    </string>
+    <string name="pina_recipe">
+       • 1/2 cup Pineapple, chopped \n
+       • 1/2 frozen Banana \n
+       • 1 scoop Vanilla Protein \n
+       • 1/2 cup Unsweetened Coconut Milk \n
+       • 1/2 cup Water and Crushed Ice
+    </string>
+    <string name="pina_directions">
+       • Add all ingredients to a blender. \n
+       • Blend, pour, and enjoy!
+    </string>
+    <string name="cinna_recipe">
+       • 3 scoops Clutch Bodyshop Protein Powder \n
+       • 2 cups ice \n
+       • 4 oz coconut milk \n
+       • 1/3 cup cooked and peeled sweet potato \n
+       • Cinnamon, nutmeg and pumpkin spice seasoning (to taste) \n
+       • 1 tbsp raw almond butter \n
+       v Stevia to taste
+    </string>
+    <string name="cinna_directions">
+        • Add all ingredients to a blender. \n
+        • Blend, pour, and enjoy!
+    </string>
+    <string name="v8_recipe">
+       • Carrots - 2 large \n
+       • Celery - 3 stalk, large \n
+       • Cucumber - 1/2 cucumber \n
+       • Parsley - 2 handful \n
+       • Green Pepper - 1 medium size \n
+       • Spinach - 1 cup \n
+       • Tomatoes - 3 medium size
+    </string>
+    <string name="v8_directions">
+        • Process all ingredients in a juicer, shake or stir and serve. \n
+        • NOTE: If using a blender then add 8 oz water(1 cup) and blend very well.
+    </string>
+    <string name="apple_recipe">
+        • Apples - 5 medium \n
+        • Celery - 2 stalk, large \n
+        • Oranges (peeled) - 2 fruit
+    </string>
+    <string name="apple_directions">
+        • Process all ingredients in a juicer, shake or stir and serve. \n
+        • NOTE: If using a blender then add 8 oz water(1 cup) and blend very well.
+    </string>
+    <string name="coconut_recipe">
+       • Coconut (meat only) \n
+       • Oranges - 2 large \n
+       • Peaches - 2 medium
+    </string>
+    <string name="coconut_directions">
+        • Process all ingredients in a juicer, shake or stir and serve. \n
+        • NOTE: If using a blender then add 8 oz water(1 cup) and blend very well.
+    </string>
+</resources>

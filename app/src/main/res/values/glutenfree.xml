@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="proteinwafflesButton">DARK CHOCOLATE GLUTEN-FREE PROTEIN WAFFLES</string>
+    <string name="glutenfreepizzaButton">GUILT-FREE PIZZA</string>
+    <string name="breadButton">PROTEIN BREAD</string>
+    <string name="nutbreadButton">Paleo-Inspired bread</string>
+    <string name="peanutbuttercookiesButton">DOUBLE CHOCOLATE PEANUT BUTTER COOKIES</string>
+    <string name="oatmealcookiesButton">OATMEAL RAISIN WALNUT COOKIES</string>
+    <string name="beanchiliButton">Black-Bean Chili With Winter Squash</string>
+    <string name="basilshrimpButton">Prosciutto-Wrapped Basil Shrimp</string>
+    <string name="title_activity_gluten_free_waffles">GlutenFreeWaffles</string>
+    <string name="glutenwaffleTitle">DARK CHOCOLATE GLUTEN-FREE PROTEIN WAFFLES</string>
+    <string name="title_activity_gluten_free_pizza">GlutenFreePizza</string>
+    <string name="glutenpizzaTitle">GUILT-FREE PIZZA</string>
+    <string name="title_activity_gluten_free_bread">GlutenFreeBread</string>
+    <string name="glutenbreadTitle">PROTEIN BREAD</string>
+    <string name="title_activity_paleo_bread">PaleoBread</string>
+    <string name="paleobreadTitle">PALEO-INSPIRDED BREAD</string>
+    <string name="title_activity_chocolate_cookies">ChocolateCookies</string>
+    <string name="chocolatecookiesTitle">Gluten-Free Double Chocolate Cookies</string>
+    <string name="title_activity_oatmeal_cookies">OatmealCookies</string>
+    <string name="oatmealcookiesTitle">OATMEAL RAISIN WALNUT COOKIES</string>
+    <string name="title_activity_black_bean_chili">BlackBeanChili</string>
+    <string name="blackbeanTitle">Black-Bean Chili With Winter Squash</string>
+    <string name="title_activity_basil_shrimp">BasilShrimp</string>
+    <string name="basilshrimpTitle">Prosciutto-Wrapped Basil Shrimp</string>
+
+    <!-- Gluten Free Pics -->
+    <string name="glutenwafflePic">glutenwafflePic</string>
+    <string name="glutenpizzaPic">glutenpizzaPic</string>
+    <string name="glutenbreadPic">glutenbreadPic</string>
+    <string name="paleobreadPic">paleobreadPic</string>
+    <string name="chocolatecookiesPic">chocolatecookiesPic</string>
+    <string name="oatmealcookiesPic">oatmealcookiesPic</string>
+    <string name="blackbeanPic">blackbeanPic</string>
+    <string name="basilshrimpPic">basilshrimpPic</string>
+
+    <!-- Gluten Free Recipes -->
+    <string name="glutenwaffle_recipe">
+       • 1 scoop chocolate protein \n
+       • 1 egg \n
+       • 1 egg white \n
+       • 1/4 cup sorghum flour \n
+       • 1/8 cup almond flour \n
+       • 1/3 cup almond milk \n
+       • 1 packet Stevia (or cane sugar) \n
+       • 1 tbsp dark chocolate Hershey\'s baking powder
+    </string>
+    <string name="glutenwaffle_directions">
+       • In a bowl, mix protein powder, sorghum flour, almond flour, cocoa powder, Stevia or sugar. \n
+       • Add eggs and almond milk and mix or blend. \n
+       • Spray waffle iron with coconut or olive oil. \n
+       • Pour batter onto the waffle iron and cook. \n
+       • When waffles are done, drizzle with fruit, your favorite sugar-free syrup, or both.
+    </string>
+    <string name="glutenpizza_recipe">
+       • 8 oz extra-lean ground chicken • 1 tbsp flax seed \n
+       • Sprinkle of seasoning of your choice (I use Mrs. Dash) • 1-2 tbsp tomato sauce \n
+       • 1 tbsp nutritional yeast • 1/8 cup Daiya cheese \n
+       • 1/4 cup spinach leaves • 1/4 cup broccoli, chopped \n
+       • 3-4 cherry tomatoes, sliced • 1/4 cup mushrooms, sliced
+    </string>
+    <string name="glutenpizza_directions">
+       • Preheat oven to 350 degrees F. \n
+       • Line round pan with aluminum foil. \n
+       • Place ground chicken in pan. \n
+       • Add flax seed and seasoning to pan. \n
+       • With your hands, mix chicken, flax seed, and seasoning. \n
+       • Form chicken to bottom of pan. \n
+       • Spread tomato sauce to half pizza. \n
+       • Sprinkle one side with nutritional yeast and the other with half of the Daiya cheese. \n
+       • Garnish pizza with spinach, broccoli, tomatoes, and mushrooms. \n
+       • Bake for 25 to 30 minutes.
+    </string>
+    <string name="glutenbread_recipe">
+       • 5 egg whites \n
+       • 1/4 cup pumpkin puree (or cooked sweet potato!) \n
+       • 1/2 cup unflavored whey protein powder(make sure its 100% gluten-free) \n
+       • 1 tbsp quinoa flakes (or oats for none gluten-free) \n
+       • 1/4 cup buckwheat flakes \n
+       • 1 tbsp coconut flour \n
+       • 1/2 cup milk (coconut milk, rice milk, or almond milk work best) \n
+       • 1 tsp baking powder \n
+       • 1 tsp sea salt
+    </string>
+    <string name="glutenbread_directions">
+       • Preheat oven to 320 degrees F (160 C). \n
+       • Using a handheld blender or mixer, blend together all the ingredients to create a smooth batter. \n
+       • Pour batter into a small bread loaf tin(or silicone), and bake it for about 40 minutes or until your knife comes out clean when you stab the bread.
+    </string>
+    <string name="paleobread_recipe">
+       • 1/4 cup Almonds • 1/4 Cashews \n
+       • 1/4 Walnuts• 1/4 Macadamia Nuts \n
+       • 1 tbsp Chia Seeds • 2 tbsp Pumpkin Seeds \n
+       • 1/2 Zucchini, shredded • 1 large shredded Carrot \n
+       • 1 1/2 tbsp Psyllium Husk Powder • 1 1/2 tbsp Olive Oil \n
+       • 4 cage free Eggs • 2 tbsp raw Honey \n
+       • 2 tsp Baking Powder
+    </string>
+    <string name="paleobread_directions">
+       • Preheat oven to 350 degrees. \n
+       • Blend almonds, cashews, walnuts, and macadamia nuts into a coarse mixture. \n
+       • Mix nut mixture and the rest of the ingredients in a large mixing bowl. \n
+       • Line a loaf pan with olive oil or coconut oil spray. \n
+       • Pour batter evenly into the loaf pan. \n
+       • Bake bread for 40 minutes. \n
+       • Remove bread from loaf pan and enjoy!
+    </string>
+    <string name="chocolatecookies_recipe">
+       • 2 scoops Chocolate Myofusion Protein \n
+       • 1/4 cup Cocoa \n
+       • 1/2 cup Almond Meal Flour \n
+       • 1 tsp Baking Soda \n
+       • 3 Egg Whites \n
+       • 1 tsp Vanilla \n
+       • 1/2 cup Adzuki Beans, pureed \n
+       • 3 tbsp melted low-calorie Butter \n
+       • 1/2 bar melted Dark Chocolate \n
+       • 1/4 cup Dark Chocolate Mini Chips \n
+       • 1/4 cup Peanut Butter Chips
+    </string>
+    <string name="chocolatecookies_directions">
+       • Preheat the oven to 350 F. \n
+       • In a large bowl, mix protein, cocoa, almond flour, and baking soda. \n
+       • Puree adzuki beans with a little water. Combine with butter, melted chocolate, and chocolate and peanut butter chips. \n
+       • Combine puree with protein mixture. \n
+       • Grease a cookies sheet and place dough in small spoonfuls two inches apart. Flatten dough with spoon or bottom of a cup. \n
+       • Bake for 10 to 12 minutes
+    </string>
+    <string name="oatmealcookies_recipe">
+       • 2 scoops Vanilla Whey Protein Powder(make sure 100% Gluten-Free) \n
+       • 1/4 cup Almond Meal Flour \n
+       • 1 cup rolled Oats \n
+       • 1/8 cup Splenda Brown Sugar Blend \n
+       • 1/2 tsp Baking Soda \n
+       • 1 tsp Cinnamon \n
+       • Pinch Nutmeg and Cloves \n
+       • 1/2 cup Apple Sauce \n
+       • 1/2 cup Garbanzo Beans, blended \n
+       • 1 Egg \n
+       • 1 tbsp melted low-calorie Butter \n
+       • 1 tsp Vanilla \n
+       • 1/4 cup Raisins \n
+       • 3/4 cup Walnuts
+    </string>
+    <string name="oatmealcookies_directions">
+       • Preheat the oven to 375 F. \n
+       • Mix whey, almond flour, oats, Splenda, baking soda, cinnamon, nutmeg, and cloves in a large bowl. \n
+       • Rinse garbanzo beans and puree them. Mix puree with egg, butter, vanilla, raisins, and walnuts. \n
+       • Combine puree mixture with the dry ingredients. \n
+       • Grease a cookie sheet and place dough in small spoonfuls two inches apart. Flatten dough with spoon or bottom of a cup. \n
+       • Bake for 7-10 minutes.
+    </string>
+    <string name="blackbean_recipe">
+       • 1 tablespoon olive oil  • 1 large chopped onion (1 1/2 cups) \n
+       • 1 medium diced yellow bell pepper (1 cup) • 3 garlic cloves, minced \n
+       • 2 (15-ounce) cans black beans, rinsed and drained  • 2 cups fat-free, less-sodium vegetable broth \n
+       • 1 (28-ounce) can diced tomatoes, undrained  • 1 (4.5-ounce) can chopped mild green chiles \n
+       • 1 teaspoon chili powder  • 1/4 teaspoon chipotle chile powder \n
+       • 1/2 teaspoon dried oregano  • 1 medium winter squash (about 2 pounds) \n
+       • 1/4 teaspoon salt
+    </string>
+    <string name="blackbean_directions">
+       • Heat oil in a large pot over medium heat. Add onion and bell pepper, and cook, stirring frequently, until soft, about 5 minutes. \n
+       • Add garlic and cook, stirring, 1 minute. Stir in beans, broth, tomatoes, green chiles, chili powder, chipotle chile powder, and oregano. Simmer, covered, 10 minutes. Uncover and cook 10 more minutes. \n
+       • Cut squash in half lengthwise, scoop out and discard seeds, pierce with a fork a few times, and put in a microwave-safe dish with 1/4 inch water. \n
+       • Cover with plastic wrap; microwave on HIGH 8 minutes or until tender. Let cool; peel with a small sharp knife, and cut into 1/2-inch chunks. \n
+       • Stir squash into bean mixture; cook 5 minutes. Stir in salt. Serve warm.
+    </string>
+    <string name="basilshrimp_recipe">
+       • 20 large frozen peeled deveined shrimp, thawed \n
+       • 1 tablespoon chopped fresh basil \n
+       • 1 teaspoon extra-virgin olive oil \n
+       • 1/2 teaspoon lemon zest \n
+       • 1/2 teaspoon kosher salt \n
+       • 1/4 teaspoon red pepper flakes \n
+       • 1/8 teaspoon freshly ground black pepper \n
+       • 10 (about 4 ounces) very thin slices prosciutto
+    </string>
+    <string name="basilshrimp_directions">
+       • Preheat broiler. \n
+       • In a medium bowl, combine the shrimp, basil, olive oil, zest, salt, red pepper flakes, and black pepper. Mix well and set aside. \n
+       • Lay the prosciutto slices on a large work surface, and cut prosciutto in half lengthwise so you have 20 pieces.  \n
+       • Wrap the prosciutto around each shrimp, leaving the tail hanging out, and thread on an 8-inch skewer. Repeat with remaining shrimp for a total of 4 skewers with 5 shrimp each. \n
+       • Place the skewers on a broiling pan lightly coated with cooking spray. Broil the shrimp 2 minutes on each side.
+    </string>
+
+</resources>

@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.TurkeyWrap">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/turkeywrapTitle"
+        android:id="@+id/turkeywrapTitle"
+        android:textSize="24sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:id="@+id/turkeywrapPic"
+        android:src="@drawable/dinner7"
+        android:cropToPadding="true"
+        android:contentDescription="@string/turkeywrapPic"
+        android:layout_below="@+id/turkeywrapTitle"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/turkeywrap_recipe"
+        android:id="@+id/turkeywrapText"
+        android:textSize="12sp"
+        android:layout_below="@+id/ingturkeywrap"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ingText"
+        android:id="@+id/ingturkeywrap"
+        android:textSize="25sp"
+        android:layout_below="@+id/turkeywrapPic"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/turkeywrap_directions"
+        android:id="@+id/turkeywrap_directions"
+        android:textSize="11sp"
+        android:singleLine="false"
+        android:layout_below="@+id/turkeywrapText"
+        android:layout_alignLeft="@+id/turkeywrapTitle"
+        android:layout_alignStart="@+id/turkeywrapTitle" />
+
+</RelativeLayout>

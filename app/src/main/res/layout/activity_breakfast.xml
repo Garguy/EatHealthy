@@ -1,0 +1,104 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.Breakfast"
+    android:background="#E7C576">
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/gold_pancakes"
+        android:id="@+id/pankcakeButton"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:onClick="goldenOnClick"
+        android:background="#5E9DC8"
+        android:layout_marginBottom="3dp"
+        android:layout_marginTop="55dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/burrito_btn"
+        android:id="@+id/burritoButton"
+        android:layout_below="@+id/pankcakeButton"
+        android:layout_alignLeft="@+id/pankcakeButton"
+        android:layout_alignStart="@+id/pankcakeButton"
+        android:onClick="burritoOnClick"
+        android:layout_centerHorizontal="true"
+        android:background="#5E9DC8"
+        android:layout_marginBottom="3dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/south_btn"
+        android:id="@+id/southButton"
+        android:layout_below="@+id/earlyButton"
+        android:layout_alignRight="@+id/burritoButton"
+        android:layout_alignEnd="@+id/burritoButton"
+        android:onClick="southOnClick"
+        android:layout_centerHorizontal="true"
+        android:background="#5E9DC8"
+        android:layout_marginBottom="3dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/early_btn"
+        android:id="@+id/earlyButton"
+        android:layout_below="@+id/burritoButton"
+        android:layout_centerHorizontal="true"
+        android:onClick="earlyOnClick"
+        android:background="#5E9DC8"
+        android:layout_marginBottom="3dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/banana_btn"
+        android:id="@+id/bananaButton"
+        android:layout_below="@+id/pepperButton"
+        android:layout_centerHorizontal="true"
+        android:onClick="bananaOnClick"
+        android:background="#5E9DC8"
+        android:layout_marginBottom="3dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/pepper_btn"
+        android:id="@+id/pepperButton"
+        android:layout_below="@+id/southButton"
+        android:layout_alignRight="@+id/pankcakeButton"
+        android:layout_alignEnd="@+id/pankcakeButton"
+        android:layout_centerHorizontal="true"
+        android:onClick="pepperOnClick"
+        android:background="#5E9DC8"
+        android:layout_marginBottom="3dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/bowl_btn"
+        android:id="@+id/bowlButton"
+        android:layout_below="@+id/scrambleButton"
+        android:layout_centerHorizontal="true"
+        android:onClick="bowlOnClick"
+        android:background="#5E9DC8"
+        android:layout_marginBottom="3dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/scram_btn"
+        android:id="@+id/scrambleButton"
+        android:layout_below="@+id/bananaButton"
+        android:layout_centerHorizontal="true"
+        android:onClick="scrambleOnClick"
+        android:background="#5E9DC8"
+        android:layout_marginBottom="3dp"/>
+</RelativeLayout>

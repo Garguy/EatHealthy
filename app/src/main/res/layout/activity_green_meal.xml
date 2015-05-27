@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.GreenMeal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/greenmealTitle"
+        android:id="@+id/greenmealTitle"
+        android:textSize="26sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:id="@+id/greenmealPic"
+        android:src="@drawable/juice3"
+        android:cropToPadding="true"
+        android:contentDescription="@string/greenmealPic"
+        android:layout_below="@+id/greenmealTitle"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/greenmeal_recipe"
+        android:id="@+id/greenmealText"
+        android:textSize="10sp"
+        android:layout_below="@+id/inggreenmeal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ingText"
+        android:id="@+id/inggreenmeal"
+        android:textSize="28sp"
+        android:layout_below="@+id/greenmealPic"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/greenmeal_directions"
+        android:id="@+id/greenmeal_directions"
+        android:textSize="10sp"
+        android:singleLine="false"
+        android:layout_below="@+id/greenmealText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+
+</RelativeLayout>

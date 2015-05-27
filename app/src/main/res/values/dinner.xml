@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="beefburger_btn">HOMEMADE BEEF BURGERS</string>
+    <string name="stroganoff_btn">BEEF STROGANOFF</string>
+    <string name="steak_btn">GRILLED WORCESTERSHIRE STEAK</string>
+    <string name="arugula_btn">GRILLED STEAK, ONION, AND MUSHROOM ARUGULA SALAD</string>
+    <string name="spaghetti_btn">30-Minute Spaghetti</string>
+    <string name="sourchicken_btn">SWEET AND SOUR CHICKEN RECIPE</string>
+    <string name="wrapasp_btn">TURKEY-WRAPPED ASPARAGUS</string>
+    <string name="cajunhal_btn">CAJUN HALIBUT WITH CORN</string>
+    <string name="beefburgerTitle">HOMEMADE BEEF BURGERS</string>
+    <string name="title_activity_beef_burgers">BeefBurgers</string>
+    <string name="title_activity_beefstroganoff">BEEFSTROGANOFF</string>
+    <string name="stroganoffTitle">BEEF STROGANOFF</string>
+    <string name="title_activity_grilled_steak">GrilledSteak</string>
+    <string name="steakTitle">GRILLED WORCESTERSHIRE STEAK</string>
+    <string name="title_activity_arugula_salad">ArugulaSalad</string>
+    <string name="arugulaTitle">GRILLED STEAK, ONION, AND MUSHROOM ARUGULA SALAD</string>
+    <string name="title_activity_spaghetti">Spaghetti</string>
+    <string name="spaghettiTitle">30-Minute Spaghetti</string>
+    <string name="title_activity_sour_chicken">SourChicken</string>
+    <string name="sourchickenTitle">SWEET AND SOUR CHICKEN RECIPE</string>
+    <string name="title_activity_turkey_wrap">TurkeyWrap</string>
+    <string name="turkeywrapTitle">TURKEY-WRAPPED ASPARAGUS</string>
+    <string name="title_activity_cajun_halibut">CajunHalibut</string>
+    <string name="cajunhalTitle">CAJUN HALIBUT WITH CORN</string>
+
+
+    <!-- Dinner Pics -->
+    <string name="beefburgerPic">beefburgerPic</string>
+    <string name="stroganoffPic">stroganoffPic</string>
+    <string name="steakPic">steakPic</string>
+    <string name="arugulaPic">arugulaPic</string>
+    <string name="spaghettiPic">spaghettiPic</string>
+    <string name="sourchickenPic">sourchickenPic</string>
+    <string name="turkeywrapPic">turkeywrapPic</string>
+    <string name="cajunhalPic">cajunhalPic</string>
+
+    <!-- Dinner recipes -->
+    <string name="beefburger_recipe">
+        • 1 pound extra lean ground beef \n
+        • 2 egg whites \n
+        • 1/2 onion, finely minced \n
+        • 2 green onions, finely diced \n
+        • 1/4 cup dry oats \n
+        • 2 tsp. Worcestershire sauce \n
+        • 1 tbsp. soy sauce \n
+        • 1 tbsp. low-sugar barbecue sauce \n
+        • 4 whole wheat burger buns \n
+        • Toppings of your choosing.
+    </string>
+    <string name="beefburger_directions">
+    • Combine ground beef, egg whites, onion, green onions, dry oats, with Worcestershire sauce, and soy sauce. \n
+    • Form into four patties and place on a heated grill. \n
+    • Brush patties with barbecue sauce as they cook. Flip patties every few minutes until cooked to desired specs. \n
+    • Serve on top of the bun with lettuce, tomato, and mustard if desired.
+    </string>
+    <string name="stroganoff_recipe">
+       • 1 lb Lean ground beef \n
+       • 1/2 tbsp Olive oil \n
+       • 1 medium Onion, diced \n
+       • 1 cup Mushrooms, sliced \n
+       • 2 cloves Garlic \n
+       • 1/2 tsp Salt \n
+       • 1/4 tsp Pepper \n
+       • 2 tbsp Flour \n
+       • 1/4 cup Skim milk \n
+       • 1 can of Half-fat Cream of Mushroom soup \n
+       • 1 cup Fat-free Greek yogurt \n
+       • 3 cups cooked Whole wheat angel hair pasta or Spaghetti squash
+    </string>
+    <string name="stroganoff_directions">
+       • Brown the ground beef, onions and mushrooms in a skillet with the olive oil. \n
+       • Add garlic, salt and pepper, and cook for another 5 minutes. \n
+       • Stir in milk, flour, soup, as well as Greek yogurt and cook for 2-3 minutes to allow flavors to distribute. \n
+       • Serve over top of noodles or cooked spaghetti squash.
+    </string>
+    <string name="steak_recipe">
+       • 2 Tbs sun dried tomatoes, minced \n
+       • 1 tsp. Worcestershire sauce \n
+       • 1 tsp. parsley, minced \n
+       • 4 beef cube steaks
+    </string>
+    <string name="steak_directions">
+       • Prepare grill or broiler. \n
+       • Combine first 3 ingredients in a small bowl and set aside. \n
+       • Using a sharp knife, cut crisscrossing diagonal slashes into 1 side of each steak. \n
+       • Place steaks on grill or broiling pan, cut side down, and grill 3-4 minutes. \n
+       • Turn steaks and divide tomato mixture evenly on cut side of steaks. \n
+       • Season with salt and pepper to taste. \n
+       • Grill another 3-4 minutes for medium rare meat.
+    </string>
+    <string name="arugula_recipe">
+       • 2 cups arugula • 4 oz flank steak \n
+       • 1 tbsp olive oil  • 1/2 cup sliced red onion \n
+       • 1/2 cup crimini or shitake mushrooms  • 1/2 tsp each: garlic powder, onion powder, ginger, chili powder, paprika, and cayenne \n
+       • 1 tsp brown sugar/Splenda blend • 1 tbsp low-sodium soy sauce \n
+       • Salt and pepper, to taste  • Balsamic vinegar to drizzle over salad
+    </string>
+    <string name="arugula_directions">
+       • In a large Ziploc bag, combine garlic powder, onion powder, ginger, chili powder, paprika, cayenne pepper, soy sauce, and brown sugar. Shake thoroughly to mix well. \n
+       • Add flank steak to bag and make sure rub thoroughly covers steak. Allow to marinate for 15 minutes. \n
+       • Place sliced onions and mushrooms in tin foil and drizzle with olive oil, salt, and pepper. \n
+       • Light grill. \n
+       • Grill steak to desired temperature. Place veggies on grill for about 5-10 minutes, or until caramelized. \n
+       • Top arugula with veggies, sliced steak, and drizzle with balsamic vinegar.
+    </string>
+    <string name="spaghetti_recipe">
+       • 1 tbsp Extra Virgin Olive Oil  • 1 medium chopped onion \n
+       • 4-6 minced garlic cloves  • 1 package sliced mushrooms (optional) \n
+       • 28 oz diced tomatoes  • 28 oz tomato sauce \n
+       • 1 tbsp dired parsley  • 1 tbsp dried basil \n
+       • 1 tsp black pepper • 2 lbs extra lean ground turkey
+    </string>
+    <string name="spaghetti_directions">
+       • In a large saucepan, sauté olive oil, onions, garlic and mushrooms on medium heat.
+       • When onions are transparent, add diced tomatoes, tomato sauce, parsley, basil, oregano and black pepper.
+       • Set heat to low and allow sauce to simmer, stirring occasionally.
+       • In a separate skillet, season the ground turkey and cook on medium heat until thoroughly browned. (Drain any fat that may appear in the skillet).
+       • When turkey is done, add to sauce and stir.
+       • Serve sauce over whole wheat noodles, Ezekiel toast or spaghetti squash.
+    </string>
+    <string name="sourchicken_recipe">
+       • 24 oz. (3-4) chicken breasts \n
+       • 2 tsp garlic salt \n
+       • 1/2 tsp black pepper \n
+       • 1/2 cup low-sodium chicken broth \n
+       • 1/2 cup white vinegar \n
+       • 1/2 cup no-calorie sweetener (Xylitol, Splenda) \n
+       • 1 tbsp low-sodium soy sauce \n
+       • 3 tbsp low-sugar ketchup \n
+       • Cooked brown rice and veggies
+    </string>
+    <string name="sourchicken_directions">
+       • Cut chicken into bite-sized pieces and place in a large bowl. \n
+       • Season the chicken with the garlic salt and pepper, turning to coat. \n
+       • Cook the chicken over medium/high heat until done (no pink centers). \n
+       • Meanwhile, whisk together chicken broth, vinegar, sweetener, soy sauce, and ketchup in a medium sauce pan. \n
+       • Bring sauce to a boil and then turn to low heat. Add the arrowroot a little at a time, whisking briskly. \n
+       • Let the sauce set up by continuing to stir for about two minutes. \n
+       • Pour sauce over cooked chicken and serve with brown rice and vegetables.
+    </string>
+    <string name="turkeywrap_recipe">
+       • A bundle of thick spears of Asparagus (roughly 12) \n
+       • 24 oz sliced Turkey Lunch Meat (very thinly sliced works best) \n
+       • Seasonings (optional): Bragg\'s Liquid Aminos, Garlic Powder, Onion Powder \n
+    </string>
+    <string name="turkeywrap_directions">
+       • Set oven to 450 F. \n
+       • Chop bottom stems off asparagus. \n
+       • Wrap each asparagus with 2 oz of sliced turkey lunch meat. \n
+       • Set a skillet on medium-high heat and spray with Kelapo coconut oil. \n
+       • Place the wrapped asparagus in the skillet with the turkey flap end down. Sear the wrapped asparagus. While it\'s cooking, add seasoning. \n
+       • Once all sides of the turkey are seared, remove from the skillet. Place the wrapped asparagus in the oven on a baking sheet. Bake in the oven for 4-5 minutes. \n
+       • Serve while warm.
+    </string>
+    <string name="cajunhal_recipe">
+       • 1 tsp Sea Salt • 1/2 tsp dried Oregano \n
+       • 1/2 tsp Cayenne Pepper • 1/2 tsp Paprika \n
+       • 1/2 tsp minced Garlic • 1/2 tsp Thyme \n
+       • 12 oz Halibut fillets • 1 diced Tomato \n
+       • 1 sliced Green Pepper • 1/2 sliced Onion \n
+       • 2 tbsp Olive Oil • 2 cups Corn \n
+       • 1/2 cup chunky style Salsa
+    </string>
+    <string name="cajunhal_directions">
+        In a small bowl, combine the sea salt, oregano, cayenne pepper, paprika, thyme, and 1 tbsp olive oil. Rub onto the halibut and let sit in the fridge for one hour (or, for more flavor, overnight). \n
+        Heat a large non-stick skillet over medium heat. Add remaining 1 tbsp of olive oil and, once it\'s heated, add halibut fillets, diced onion, garlic, and green pepper. \n
+        Cook for about 3-4 minutes, flip, and then cook for another 3-4 minutes on the other side (or until fish flakes easily with a fork). \n
+        Top with tomato slices and serve alongside corn and salsa.
+    </string>
+</resources>

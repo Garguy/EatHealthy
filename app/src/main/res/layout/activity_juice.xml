@@ -1,0 +1,105 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.Juice"
+    android:background="#9DAF72">
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/blackberryButton"
+        android:id="@+id/blackberryButton"
+        android:onClick="blackberryOnClick"
+        android:background="#FFDE00"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="28dp"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/buttershakeButton"
+        android:id="@+id/buttershakeButton"
+        android:onClick="buttershakeOnClick"
+        android:background="#FFDE00"
+        android:layout_below="@+id/blackberryButton"
+        android:layout_alignLeft="@+id/blackberryButton"
+        android:layout_alignStart="@+id/blackberryButton"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/greenmealButton"
+        android:id="@+id/greenmealButton"
+        android:onClick="greenmealtOnClick"
+        android:background="#FFDE00"
+        android:layout_below="@+id/buttershakeButton"
+        android:layout_alignLeft="@+id/buttershakeButton"
+        android:layout_alignStart="@+id/buttershakeButton"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/pinacoladaButton"
+        android:id="@+id/pinacoladaButton"
+        android:onClick="pinacoladaOnClick"
+        android:background="#FFDE00"
+        android:layout_below="@+id/greenmealButton"
+        android:layout_alignLeft="@+id/greenmealButton"
+        android:layout_alignStart="@+id/greenmealButton"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/cinnatoastButton"
+        android:id="@+id/cinnatoastButton"
+        android:onClick="cinnatoastOnClick"
+        android:background="#FFDE00"
+        android:layout_below="@+id/pinacoladaButton"
+        android:layout_alignLeft="@+id/pinacoladaButton"
+        android:layout_alignStart="@+id/pinacoladaButton"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/v8Button"
+        android:id="@+id/v8Button"
+        android:onClick="v8OnClick"
+        android:background="#FFDE00"
+        android:layout_below="@+id/cinnatoastButton"
+        android:layout_alignLeft="@+id/cinnatoastButton"
+        android:layout_alignStart="@+id/cinnatoastButton"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/applecrispButton"
+        android:id="@+id/applecrispButton"
+        android:onClick="applecrispOnClick"
+        android:background="#FFDE00"
+        android:layout_below="@+id/v8Button"
+        android:layout_alignLeft="@+id/v8Button"
+        android:layout_alignStart="@+id/v8Button"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/coconutButton"
+        android:id="@+id/coconutButton"
+        android:onClick="coconutOnClick"
+        android:background="#FFDE00"
+        android:layout_below="@+id/applecrispButton"
+        android:layout_alignLeft="@+id/applecrispButton"
+        android:layout_alignStart="@+id/applecrispButton" />
+
+</RelativeLayout>

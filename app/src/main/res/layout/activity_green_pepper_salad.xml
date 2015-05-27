@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.GreenPepperSalad">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Green Pepper Salad"
+        android:id="@+id/greenpepperTitle"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="32sp" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:id="@+id/greenpepperPic"
+        android:src="@drawable/lunch1"
+        android:cropToPadding="true"
+        android:contentDescription="@string/greenpepperPic"
+        android:layout_below="@+id/greenpepperTitle"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/greenpepper_recipe"
+        android:id="@+id/greenpepperText"
+        android:textSize="10sp"
+        android:layout_below="@+id/inggreenpepper"
+        android:layout_alignLeft="@+id/greenpepperPic"
+        android:layout_alignStart="@+id/greenpepperPic"
+        android:layout_marginTop="5dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ingText"
+        android:id="@+id/inggreenpepper"
+        android:textSize="35sp"
+        android:layout_below="@+id/greenpepperPic"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/greenpepper_directions"
+        android:id="@+id/greenpepper_directions"
+        android:textSize="12sp"
+        android:singleLine="false"
+        android:layout_below="@+id/greenpepperText"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="10dp"/>
+
+</RelativeLayout>

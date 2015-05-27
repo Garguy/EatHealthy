@@ -1,0 +1,95 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity"
+    android:background="#F94D00">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/main_title_text"
+        android:id="@+id/mainTitleText"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="50sp"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="@string/breakfast_button"
+        android:id="@+id/breakfastButton"
+        android:width="150dp"
+        android:onClick="goBreakfast"
+        android:background="#838996"
+        android:layout_marginTop="32dp"
+        android:layout_marginBottom="5dp"
+        android:layout_below="@+id/mainTitleText"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="@string/lunch_button"
+        android:id="@+id/lunchButton"
+        android:onClick="onLunch"
+        android:background="#838996"
+        android:layout_below="@+id/breakfastButton"
+        android:layout_alignLeft="@+id/breakfastButton"
+        android:layout_alignStart="@+id/breakfastButton"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="@string/dinner_button"
+        android:id="@+id/dinnerButton"
+        android:onClick="onDinner"
+        android:background="#838996"
+        android:layout_below="@+id/juiceButton"
+        android:layout_alignLeft="@+id/juiceButton"
+        android:layout_alignStart="@+id/juiceButton"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="@string/juice_button"
+        android:id="@+id/juiceButton"
+        android:onClick="onJuice"
+        android:background="#838996"
+        android:layout_below="@+id/lunchButton"
+        android:layout_alignLeft="@+id/lunchButton"
+        android:layout_alignStart="@+id/lunchButton"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="@string/dessert_button"
+        android:id="@+id/dessertButton"
+        android:onClick="onDessert"
+        android:background="#838996"
+        android:layout_below="@+id/dinnerButton"
+        android:layout_alignLeft="@+id/dinnerButton"
+        android:layout_alignStart="@+id/dinnerButton"
+        android:layout_marginBottom="5dp"/>
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:text="@string/gluten_button"
+        android:id="@+id/glutenButton"
+        android:onClick="onGlutenFree"
+        android:background="#838996"
+        android:layout_below="@+id/dessertButton"
+        android:layout_alignLeft="@+id/dessertButton"
+        android:layout_alignStart="@+id/dessertButton"
+        android:layout_marginBottom="5dp"/>
+
+</RelativeLayout>

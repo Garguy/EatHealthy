@@ -1,0 +1,63 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.GoldenPancakes">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/gldpanText"
+        android:id="@+id/gldpan"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="32sp" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:id="@+id/pepperPic"
+        android:layout_below="@+id/gldpan"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/break1"
+        android:contentDescription="@string/pnkPic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/gld_recipe"
+        android:id="@+id/burrText"
+        android:layout_marginTop="58dp"
+        android:layout_below="@+id/pepperPic"
+        android:layout_alignLeft="@+id/pepperPic"
+        android:layout_alignStart="@+id/pepperPic"
+        android:textSize="10sp"
+        android:layout_alignRight="@+id/pepperPic"
+        android:layout_alignEnd="@+id/pepperPic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ingText"
+        android:id="@+id/ingSouth"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="35sp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/gld_directions"
+        android:id="@+id/gld_directions"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="12sp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>

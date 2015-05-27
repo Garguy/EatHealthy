@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_pumpkin_mousse">PumpkinMousse</string>
+    <string name="pumpkinmousse_btn">CELLUCOR CINNAMON SWIRL PUMPKIN MOUSSE PIE</string>
+    <string name="coconutcookies_btn">COCONUT ALMOND COOKIES</string>
+    <string name="pumkinpie_btn">PROTEIN PUMPKIN PECAN PIE</string>
+    <string name="peanutbuttercups_btn">PUMPKIN PIE PEANUT BUTTER CUPS</string>
+    <string name="peanutbutterballs_btn">PROTEIN PEANUT BUTTER BALLS</string>
+    <string name="nobakecookie_btn">COMBAT NO-BAKE COOKIE BARS</string>
+    <string name="chocolatelovers_btn">THE CHOCOLATE LOVER\'S GODSEND</string>
+    <string name="carrotcake_btn">CARROT CAKE PROTEIN BARS</string>
+    <string name="mousseTitle">CELLUCOR CINNAMON SWIRL PUMPKIN MOUSSE PIE</string>
+    <string name="title_activity_coconut_cookies">CoconutCookies</string>
+    <string name="coconutcookieTitle">COCONUT ALMOND COOKIES</string>
+    <string name="title_activity_pumpkin_pie">PumpkinPie</string>
+    <string name="pumkinpieTitle">PROTEIN PUMPKIN PECAN PIE</string>
+    <string name="title_activity_peanut_butter_cups">PeanutButterCups</string>
+    <string name="peanutcupsTitle">PUMPKIN PIE PEANUT BUTTER CUPS</string>
+    <string name="title_activity_peanut_balls">PeanutBalls</string>
+    <string name="peanutballsTitle">PROTEIN PEANUT BUTTER BALLS</string>
+    <string name="title_activity_no_bake_cookies">NoBakeCookies</string>
+    <string name="nobakeTitle">COMBAT NO-BAKE COOKIE BARS</string>
+    <string name="title_activity_chocolate_lovers">ChocolateLovers</string>
+    <string name="loversTitle">THE CHOCOLATE LOVER\'S GODSEND</string>
+    <string name="title_activity_carrot_cake">CarrotCake</string>
+    <string name="carrotcakeTitle">CARROT CAKE PROTEIN BARS</string>
+
+    <!-- Dessert Pics -->
+    <string name="moussePic">moussePic</string>
+    <string name="coconutcookiePic">coconutcookiePic</string>
+    <string name="pumkinpiePic">pumkinpiePic</string>
+    <string name="peanutcupsPic">peanutcupsPic</string>
+    <string name="peanutballsPic">peanutballsPic</string>
+    <string name="nobakePic">nobakePic</string>
+    <string name="loversPic">loversPic</string>
+    <string name="carrotcakePic">carrotcakePic</string>
+
+    <!-- Dessert recipes -->
+    <string name="mousse_recipe">
+       • 1/2 scoop (20 g) Cinnamon Swirl COR-Performance Whey \n
+       • 3 g Splenda \n
+       • 8 g sugar-free, fat-free pudding mix \n
+       • 1 Keebler mini graham cracker pie crust \n
+       • Dash of cinnamon \n
+       • Dash of pumpkin pie spice \n
+       • 1 tbsp fat-free cream cheese \n
+       • 1 tbsp fat-free ricotta cheese \n
+       • 3 oz. Greek yogurt \n
+       • 1 tbsp canned Pumpkin \n
+       • Graham cracker (optional)
+    </string>
+    <string name="mousse_directions">
+       • Combine all dry ingredients in a bowl: Cellucor whey, pudding mix, pumpkin pie spice, and Splenda. \n
+       • Mix wet ingredients in a separate bowl: Greek yogurt, cream cheese, ricotta cheese, and pumpkin. \n
+       • Combine wet and dry ingredients. Stir together to form a very thick mousse for your pie crust. \n
+       • Pour the mousse into the pie crust. Break up a graham cracker for extra decoration and added crunch in your mini pie. \n
+       • Store in fridge to thicken the mousse. Devour!
+    </string>
+    <string name="coconutcookie_recipe">
+       • 1/4 cup coconut butter, melted \n
+       • 1 cup almond butter \n
+       • 1 cup shredded unsweetened coconut \n
+       • 1/2 cup almond flour \n
+       • 1 tsp baking powder \n
+       • 1 tsp vanilla \n
+       • 1 egg \n
+       • 1/4 cup honey \n
+       • Chocolate chips (optional)
+    </string>
+    <string name="coconutcookie_directions">
+       • Preheat oven to 350 degrees F. \n
+       • In a large bowl, stir together almond flour, coconut, and baking powder. \n
+       • Add coconut butter, almond butter, vanilla, egg, and honey. Stir. \n
+       • Place dough in round, golf-ball-sized pieces on a baking sheet, and flatten slightly. \n
+       • Bake cookies for 12-14 minutes or until golden brown around the edges. \n
+       • Let cool and enjoy!
+    </string>
+    <string name="pumkinpie_recipe">
+       • 1-1/2 tsp cinnamon \n
+       • 1 tsp cloves \n
+       • 1/2 tsp allspice \n
+       • 1/2 tsp ginger \n
+       • Pinch salt \n
+       • 1/2 cup egg whites \n
+       • 1 can pumpkin \n
+       • 1/2 cup fat-free milk \n
+       • 1/4 cup brown sugar Splenda \n
+       • 1 scoop vanilla, cinnamon, or pumpkin protein \n
+       • 1 pie crust \n
+       • Handful of pecans
+    </string>
+    <string name="pumkinpie_directions">
+       • Preheat the oven to 350 degrees F. \n
+       • Combine cinnamon, cloves, allspice, ginger, salt, Splenda, and protein in a bowl. \n
+       • Add eggs, pumpkin, and milk to the bowl and stir. \n
+       • Pour pumpkin mixture into the pie crust and spread evenly. Arrange pecans on top. \n
+       • Bake for 45-55 minutes and enjoy.
+</string>
+    <string name="peanutcups_recipe">
+       • 1/4 cup cocoa powder \n
+       • 1/4 cup virgin coconut oil \n
+       • 2 tbsp liquid Stevia \n
+       • 2 tbsp pumpkin puree \n
+       • 2 tbsp peanut butter, room-temperature \n
+       • 1/2 scoop ON Gold Standard 100% Whey Pumpkin Pie Protein \n
+       • 1/8 tsp pumpkin pie spice \n
+       • Water
+    </string>
+    <string name="peanutcups_directions">
+       • Stir the cocoa powder, coconut oil, and sweetener together until they form a sauce. Fill the bottom of cupcake liners or candy molds with the sauce, and save the rest of the mixture. Freeze the liners for 10 minutes. \n
+       • While freezing, mix the remaining ingredients. Add water one tablespoon at a time until the mixture forms a paste. Take the liners out of the freezer, and top with one teaspoon of pumpkin mixture. \n
+       • Add one more layer of the chocolate mixture, and put liners back in freezer for 10 minutes. \n
+       • Remove, let sit for 3 minutes, and enjoy!
+    </string>
+    <string name="peanutballs_recipe">
+       • 1/2 cup peanut butter \n
+       • 1/2 cup 100% whole wheat oats \n
+       • 2-3 scoops Chocolate Whey \n
+       • 1-2 tbsp honey (optional for added sweetness)
+    </string>
+    <string name="peanutballs_directions">
+       • Mix all ingredients together, and roll into 1-2 inch balls. \n
+       • Sprinkle extra oats or crushed almonds over tops of rolled protein balls. \n
+       • Place in fridge for several hours, or overnight.
+    </string>
+    <string name="nobake_recipe">
+       • 8 scoops MusclePharm Combat Chocolate Milk Protein Powder (or any Chocolate Protien) \n
+       • 3 cups steel cut oats \n
+       • 2 cups So Delicious Unsweetened Coconut Milk \n
+       • 1 packet of chocolate sugar-free, fat-free pudding
+    </string>
+    <string name="nobake_directions">
+       • Mix all contents in a large mixing bowl. \n
+       • Coat a baking dish with a non-stick spray, then place mix into the dish. \n
+       • Cover. Leave in the refrigerator overnight.
+    </string>
+    <string name="lovers_recipe">
+       • 8 oz Unsweetened Baking Chocolate Squares \n
+       • 1 cup Natural Peanut Butter \n
+       • 2 cups Splenda \n
+       • 1 cup Chocolate Protein Powder \n
+       • 1 pinch Salt \n
+       • 1/2 cup Chopped Peanuts
+    </string>
+    <string name="lovers_directions">
+       • Begin by melting the chocolate squares on low heat in a saucepan. \n
+       • Make sure to stir continually so it doesn\'t burn. \n
+       • After the chocolate has melted, add in the peanut butter and sugar substitute, and then continue to stir until the ingredients are completely mixed together. \n
+       • Then add the chocolate protein powder and a quarter cup of peanuts. \n
+       • Sprinkle a pinch of salt into the sauce, and then pour it into a 9 x 9 inch pan. \n
+       • Sprinkle the remaining peanuts as a topping for the mixture, and then place everything in the fridge to cool for about 20 minutes. \n
+       • When you\'re ready to eat, take it out of the fridge and it\'s ready to go!!
+    </string>
+    <string name="carrotcake_recipe">
+       • 1 cup oat flour \n
+       • 2 scoops vanilla whey protein \n
+       • 2 tsp cinnamon \n
+       • 1/2 tsp baking soda \n
+       • 1/4 tsp salt \n
+       • 1/8 tsp allspice \n
+       • 1/8 tsp nutmeg \n
+       • 4 egg whites \n
+       • 3/4 cup Splenda, Truvia, or Ideal \n
+       • 8 oz. baby food carrots \n
+       • 4 oz. water
+    </string>
+    <string name="carrotcake_directions">
+       • Preheat oven to 350 degrees. \n
+       • Mix flour, whey protein, cinnamon, allspice, nutmeg, baking soda and salt together in a bowl. \n
+       • Mix egg whites, Splenda, baby food carrots and water (optional) in a bowl. \n
+       • Add wet ingredients to dry ingredients and mix together. \n
+       • Spray glass pyrex dish with non-stick butter spray. \n
+       • Pour ingredients into dish. \n
+       • Bake 20-30 minutes
+    </string>
+</resources>

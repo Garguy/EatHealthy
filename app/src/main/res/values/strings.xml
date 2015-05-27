@@ -1,0 +1,201 @@
+<resources>
+    <string name="app_name">Eat Healthy</string>
+
+    <!-- main activity -->
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_title_text">Eat Healthy</string>
+    <string name="comp_text">By: PowerOn Studio</string>
+    <string name="breakfast_button">Breakfast</string>
+    <string name="lunch_button">Lunch</string>
+    <string name="dinner_button">Dinner</string>
+    <string name="juice_button">Juices</string>
+    <string name="dessert_button">Dessert</string>
+    <string name="gluten_button">Gluten Free</string>
+
+    <!-- Breakfast -->
+    <string name="title_activity_breakfast">Breakfast</string>
+    <string name="title_activity_lunch">Lunch</string>
+    <string name="title_activity_dinner">Dinner</string>
+    <string name="title_activity_juice">Juice</string>
+    <string name="title_activity_dessert">Dessert</string>
+    <string name="title_activity_gluten_free">GlutenFree</string>
+    <string name="title_activity_breakfast_burrito">breakfastBurrito</string>
+    <string name="title_activity_early_riser_breakfast">EarlyRiserBreakfast</string>
+    <string name="title_activity_golden_pancakes">GoldenPancakes</string>
+    <string name="title_activity_southwest_scramble">SouthwestScramble</string>
+    <string name="title_activity_stuffed_pepper">StuffedPepper</string>
+    <string name="title_activity_banana_split">BananaSplit</string>
+    <string name="title_activity_protein_scramble">ProteinScramble</string>
+    <string name="title_activity_anabolic_bowl">AnabolicBowl</string>
+    <string name="gold_pancakes">Golden Pancakes</string>
+    <string name="burrito_btn">Breakfast Burrito</string>
+    <string name="south_btn">Southwest Scramble</string>
+    <string name="early_btn">Early Riser</string>
+    <string name="banana_btn">Banana Split</string>
+    <string name="pepper_btn">Egg Stuffed Pepper</string>
+    <string name="bowl_btn">Anabolic Bowl</string>
+    <string name="scram_btn">Protein Scramble</string>
+    <string name="gldpanText">Golden Pancakes</string>
+    <string name="ingText">Ingredients:</string>
+    <string name="burrText">Breakfast Burrito</string>
+    <string name="earlyTitle">Early Riser Breakfast</string>
+    <string name="southTitle">Southwest Scramble</string>
+    <string name="pepperText">pepperText</string>
+    <string name="bananaText">bananaText</string>
+    <string name="proteinText">proteinText</string>
+    <string name="proteinTitle">Protein Scramble</string>
+    <string name="anabText">anabText</string>
+    <string name="anabTitle">Anabolic Bowl</string>
+
+    <!-- Action Bar -->
+    <string name="action_about">About</string>
+
+    <!-- Breakfast Pics -->
+    <string name="pnkPic">Pancake Pic</string>
+    <string name="earlyPic">Early Riser Breakfast</string>
+    <string name="burrPic">Breakfast Burrito</string>
+    <string name="southPic">Southwest Scramble</string>
+    <string name="pepperPic">Egg Stuffed Peppers</string>
+    <string name="bananaPic">Banana Split</string>
+    <string name="proteinPic">proteinPic</string>
+    <string name="anabPic">anabPic</string>
+
+
+    <!-- Recipes -->
+    <string name="gld_recipe">
+       • 1 cup uncooked whole-grain oats (non-instant) \n
+       • 6 egg whites \n
+       • 1 cup fat-free cottage cheese \n
+       • 1/4 tsp vanilla extract \n
+       • 1/4 tsp ground cinnamon \n
+       • 2 packets sugar substitute \n
+       • 1/2 cup sugar-free maple syrup \n
+       • 1/4 cup mixed berries
+    </string>
+    <string name="gld_directions">
+       • Mix together oats, egg whites, cottage cheese, \n vanilla extract, cinnamon, and sugar substitute in a bowl until well-blended. \n
+       • Heat a nonstick skillet to medium heat. \n
+       • Pour blended mixture onto skillet to form pancakes. Let mixture sit in skillet until bubbles form, then flip the pancake, and leave in skillet until both sides are golden brown. \n
+       • Remove pancakes and plate. Cover with maple syrup and berries, then serve!
+    </string>
+    <string name="burr_recipe">
+       • 1 8-inch whole-wheat tortilla \n
+       • 1 whole egg \n
+       • 3 egg whites \n
+       • 1 lettuce leaf \n
+       • 2 tbsp fat-free refried beans \n
+       • 1 tbsp reduced-fat cheddar cheese, shredded \n
+       • 1/4 cup salsa, divided
+    </string>
+    <string name="burr_directions">
+       • Lightly coat a medium nonstick skillet with cooking spray and place over medium heat. Place tortilla in the skillet and warm for 30 seconds, then flip and warm the other side for 30 seconds. Place the warmed tortilla on a small plate. \n
+       • Whisk the egg and egg whites together. Pour into warmed skillet and cook, stirring occasionally, until set. \n
+       • While the eggs are cooking, place the lettuce leaf on the tortilla and spread the refried beans over the lettuce leaf. Top the beans with cooked eggs, shredded cheddar cheese, and 2 tablespoons of salsa. \n
+       • Roll it up and top with remaining salsa. Serve and enjoy!
+    </string>
+    <string name="early_recipe">
+       • 6 egg whites \n
+       • 2-3 thick asparagus spears, sliced \n
+       • 1/2 cup cooked brown rice and quinoa mix (or cooked oatmeal) \n
+       • 1 sweet mini red bell pepper, sliced \n
+       • Garlic, pepper and pinch of sea salt \n
+       • 1/2 pink grapefruit \n
+       • 1 scoop Dymatize ISO whey protein
+    </string>
+    <string name="early_directions">
+       • Set oven to 405 F. \n
+       • Lightly spray a cast iron skillet with coconut oil or olive oil. \n
+       • Add cooked brown rice and quinoa to the skillet. \n
+       • Pour in egg whites, and then add asparagus strips and pieces\n \tand bell pepper slices. \n
+       • Bake in the oven for 15-18 minutes (or until eggs are cooked).
+    </string>
+    <string name="south_recipe">
+       • 4 egg whites \n
+       • 1 link turkey sausage \n
+       • 1 small diced yellow onion \n
+       • 1/4 cup diced yellow bell pepper \n
+       • 1/4 cup diced red bell pepper \n
+       • 1 handful chopped spinach \n
+       • 1 diced tomato \n
+       • Salt and pepper to taste
+    </string>
+    <string name="south_directions">
+       • In a large pan, drizzle onions and peppers with olive oil and saute. \n
+       • When the onions are clear and peppers are tender, season with salt and pepper. \n
+       • Add chopped turkey sausage, and saute until sausage is golden brown. \n
+       • Lower heat, add egg whites, and scramble. \n
+       • When eggs are almost done, add in tomato and spinach. Enjoy with a piece of whole grain toast for a complete and nutritious meal!
+    </string>
+
+    <string name="pepper_recipe">
+       • 2 eggs \n
+       • 6 egg whites \n
+       • 1 cup raw spinach \n
+       • 1/4 cup brown rice farina \n
+       • 1/2 bell pepper (any color) \n
+       • Pico de gallo
+    </string>
+
+    <string name="pepper_directions">
+       • Cook egg whites and farina separately. Mix together and add spinach. Cook until spinach is wilted. \n
+       • Cut bell peppers horizontally to create 2 thick rings. \n
+       • Lightly spray another skillet with coconut oil or olive oil and set on medium heat. \n
+       • Place bell peppers rings in the skillet and crack the eggs inside the bell pepper. \n
+       • Push down on the bell pepper sides to prevent spillage. Let it cook until the egg turns white. \n
+       • Place cooked pepper rings and egg/farina mixture on a plate. Top whatever you\'d like with pico de gallo.
+    </string>
+
+    <string name="banana_recipe">
+       • 1 medium banana \n
+       • 3/4 cup non-fat Greek yogurt \n
+       • 1/2 scoop Dymatize ISO protein \n
+       • 1 strawberry, chopped \n
+       • 1/4 cup blueberries \n
+       • 1 large tbsp granola \n
+       • 1 tbsp dark chocolate chips
+    </string>
+    <string name="banana_directions">
+       • Slice banana in half lengthwise and lay both sides in a bowl or on a plate. \n
+       • Mix together protein and Greek yogurt and spoon on top of the banana slices. \n
+       • Top bananas and protein mixture with berries, granola, and chocolate chips.
+    </string>
+
+    <string name="protein_recipe">
+       • 3 large brown eggs \n
+       • 9 egg whites \n
+       • 1 sweet Italian-style chicken sausage \n
+       • 4 tsp tomatillo avocado salsa
+    </string>
+
+    <string name="protein_directions">
+       • Dice chicken sausage and put into a warmed skillet to brown. While waiting, beat eggs and egg whites together. \n
+       • Once chicken sausage is browned, spray skillet with non-stick spray and pour beat eggs into the skillet with the sausage. Mix all ingredients frequently until eggs are cooked through. \n
+       • Place on plate and top with tomatillo avocado salsa.
+    </string>
+
+
+
+    <string name="anab_recipe">
+      • 6 egg whites \n
+      • 1/2 cup instant oatmeal, cooked \n
+      • 1/2 banana \n
+      • 1/8 cup walnuts \n
+      • 1/4 cup raspberries \n
+      • Cinnamon \n
+      • Stevia or raw organic honey
+    </string>
+    <string name="anab_directions">
+       • Cook egg whites in a skillet on low heat. \n
+       • If you want to cook your banana, spray another skillet with coconut oil or virgin olive oil and set on low-medium heat. Chop half of the banana into pieces and add to the skillet. Use a spatula and be careful not to let the banana pieces stick to the skillet. \n
+       • Combine oatmeal and egg whites in a bowl and mix. \n
+       • Add cinnamon and Stevia (or raw honey) and mix. \n
+       • Top with banana, raspberries, and walnuts.
+    </string>
+    <string name="title_activity_about_page">AboutPage</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="lorem_lipsum">fragmentText</string>
+
+
+</resources>

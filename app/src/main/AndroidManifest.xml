@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.poweron_studio.eathealthy" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/fork"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Breakfast"
+            android:label="@string/title_activity_breakfast" >
+        </activity>
+        <activity
+            android:name=".Lunch"
+            android:label="@string/title_activity_lunch" >
+        </activity>
+        <activity
+            android:name=".Dinner"
+            android:label="@string/title_activity_dinner" >
+        </activity>
+        <activity
+            android:name=".Juice"
+            android:label="@string/title_activity_juice" >
+        </activity>
+        <activity
+            android:name=".Dessert"
+            android:label="@string/title_activity_dessert" >
+        </activity>
+        <activity
+            android:name=".GlutenFree"
+            android:label="@string/title_activity_gluten_free" >
+        </activity>
+        <activity
+            android:name=".GoldenPancakes"
+            android:label="@string/title_activity_golden_pancakes" >
+        </activity>
+        <activity
+            android:name=".breakfastBurrito"
+            android:label="@string/title_activity_breakfast_burrito" >
+        </activity>
+        <activity
+            android:name=".EarlyRiserBreakfast"
+            android:label="@string/title_activity_early_riser_breakfast" >
+        </activity>
+        <activity
+            android:name=".SouthwestScramble"
+            android:label="@string/title_activity_southwest_scramble" >
+        </activity>
+        <activity
+            android:name=".StuffedPepper"
+            android:label="@string/title_activity_stuffed_pepper" >
+        </activity>
+        <activity
+            android:name=".BananaSplit"
+            android:label="@string/title_activity_banana_split" >
+        </activity>
+        <activity
+            android:name=".ProteinScramble"
+            android:label="@string/title_activity_protein_scramble" >
+        </activity>
+        <activity
+            android:name=".AnabolicBowl"
+            android:label="@string/title_activity_anabolic_bowl" >
+        </activity>
+        <activity
+            android:name=".GreenPepperBison"
+            android:label="@string/title_activity_green_pepper_bison" >
+        </activity>
+        <activity
+            android:name=".GreenPepperSalad"
+            android:label="@string/title_activity_green_pepper_salad" >
+        </activity>
+        <activity
+            android:name=".FishTacos"
+            android:label="@string/title_activity_fish_tacos" >
+        </activity>
+        <activity
+            android:name=".RedPear"
+            android:label="@string/title_activity_red_pear" >
+        </activity>
+        <activity
+            android:name=".CreamyChicken"
+            android:label="@string/title_activity_creamy_chicken" >
+        </activity>
+        <activity
+            android:name=".TangyChicken"
+            android:label="@string/title_activity_tangy_chicken" >
+        </activity>
+        <activity
+            android:name=".LaKing"
+            android:label="@string/title_activity_la_king" >
+        </activity>
+        <activity
+            android:name=".GreekChicken"
+            android:label="@string/title_activity_greek_chicken" >
+        </activity>
+        <activity
+            android:name=".BlackBerryPop"
+            android:label="@string/title_activity_black_berry_pop" >
+        </activity>
+        <activity
+            android:name=".ButterShake"
+            android:label="@string/title_activity_butter_shake" >
+        </activity>
+        <activity
+            android:name=".GreenMeal"
+            android:label="@string/title_activity_green_meal" >
+        </activity>
+        <activity
+            android:name=".PinaColada"
+            android:label="@string/title_activity_pina_colada" >
+        </activity>
+        <activity
+            android:name=".CinnaToast"
+            android:label="@string/title_activity_cinna_toast" >
+        </activity>
+        <activity
+            android:name=".V8"
+            android:label="@string/title_activity_v8" >
+        </activity>
+        <activity
+            android:name=".AppleCrisp"
+            android:label="@string/title_activity_apple_crisp" >
+        </activity>
+        <activity
+            android:name=".CoconutSplash"
+            android:label="@string/title_activity_coconut_splash" >
+        </activity>
+        <activity
+            android:name=".BeefBurgers"
+            android:label="@string/title_activity_beef_burgers" >
+        </activity>
+        <activity
+            android:name=".BEEFSTROGANOFF"
+            android:label="@string/title_activity_beefstroganoff" >
+        </activity>
+        <activity
+            android:name=".GrilledSteak"
+            android:label="@string/title_activity_grilled_steak" >
+        </activity>
+        <activity
+            android:name=".ArugulaSalad"
+            android:label="@string/title_activity_arugula_salad" >
+        </activity>
+        <activity
+            android:name=".Spaghetti"
+            android:label="@string/title_activity_spaghetti" >
+        </activity>
+        <activity
+            android:name=".SourChicken"
+            android:label="@string/title_activity_sour_chicken" >
+        </activity>
+        <activity
+            android:name=".TurkeyWrap"
+            android:label="@string/title_activity_turkey_wrap" >
+        </activity>
+        <activity
+            android:name=".CajunHalibut"
+            android:label="@string/title_activity_cajun_halibut" >
+        </activity>
+        <activity
+            android:name=".PumpkinMousse"
+            android:label="@string/title_activity_pumpkin_mousse" >
+        </activity>
+        <activity
+            android:name=".CoconutCookies"
+            android:label="@string/title_activity_coconut_cookies" >
+        </activity>
+        <activity
+            android:name=".PumpkinPie"
+            android:label="@string/title_activity_pumpkin_pie" >
+        </activity>
+        <activity
+            android:name=".PeanutButterCups"
+            android:label="@string/title_activity_peanut_butter_cups" >
+        </activity>
+        <activity
+            android:name=".PeanutBalls"
+            android:label="@string/title_activity_peanut_balls" >
+        </activity>
+        <activity
+            android:name=".NoBakeCookies"
+            android:label="@string/title_activity_no_bake_cookies" >
+        </activity>
+        <activity
+            android:name=".ChocolateLovers"
+            android:label="@string/title_activity_chocolate_lovers" >
+        </activity>
+        <activity
+            android:name=".CarrotCake"
+            android:label="@string/title_activity_carrot_cake" >
+        </activity>
+        <activity
+            android:name=".GlutenFreeWaffles"
+            android:label="@string/title_activity_gluten_free_waffles" >
+        </activity>
+        <activity
+            android:name=".GlutenFreePizza"
+            android:label="@string/title_activity_gluten_free_pizza" >
+        </activity>
+        <activity
+            android:name=".GlutenFreeBread"
+            android:label="@string/title_activity_gluten_free_bread" >
+        </activity>
+        <activity
+            android:name=".PaleoBread"
+            android:label="@string/title_activity_paleo_bread" >
+        </activity>
+        <activity
+            android:name=".ChocolateCookies"
+            android:label="@string/title_activity_chocolate_cookies" >
+        </activity>
+        <activity
+            android:name=".OatmealCookies"
+            android:label="@string/title_activity_oatmeal_cookies" >
+        </activity>
+        <activity
+            android:name=".BlackBeanChili"
+            android:label="@string/title_activity_black_bean_chili" >
+        </activity>
+        <activity
+            android:name=".BasilShrimp"
+            android:label="@string/title_activity_basil_shrimp" >
+        </activity>
+        <activity
+            android:name=".AboutPage"
+            android:label="@string/title_activity_about_page"
+            android:parentActivityName=".MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.poweron_studio.eathealthy.MainActivity"/>
+        </activity>
+    </application>
+
+</manifest>

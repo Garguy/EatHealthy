@@ -1,0 +1,58 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.poweron_studio.eathealthy.breakfastBurrito">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/burrText"
+        android:id="@+id/burrTitle"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:textSize="32sp" />
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:id="@+id/burrPic"
+        android:src="@drawable/break2"
+        android:cropToPadding="true"
+        android:contentDescription="@string/burrPic"
+        android:layout_below="@+id/burrTitle"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/burr_recipe"
+        android:id="@+id/burrText"
+        android:textSize="10sp"
+        android:layout_below="@+id/ingSouth"
+        android:layout_alignLeft="@+id/burrPic"
+        android:layout_alignStart="@+id/burrPic" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ingText"
+        android:id="@+id/ingSouth"
+        android:textSize="35sp"
+        android:layout_below="@+id/burrPic"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/burr_directions"
+        android:id="@+id/burr_directions"
+        android:textSize="12sp"
+        android:singleLine="false"
+        android:layout_below="@+id/burrText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="10dp"/>
+
+</RelativeLayout>

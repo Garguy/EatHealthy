@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.Dessert"
+    android:background="#52223C">
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/pumpkinmousse_btn"
+        android:id="@+id/pumpkinmousseButton"
+        android:onClick="pumpkinmousseOnClick"
+        android:background="#BDAEC6"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/coconutcookies_btn"
+        android:id="@+id/coconutcookiesButton"
+        android:onClick="coconutcookiesOnClick"
+        android:background="#BDAEC6"
+        android:layout_below="@+id/pumpkinmousseButton"
+        android:layout_alignLeft="@+id/pumpkinmousseButton"
+        android:layout_alignStart="@+id/pumpkinmousseButton"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/pumkinpie_btn"
+        android:id="@+id/pumkinpieButton"
+        android:onClick="pumkinpieOnClick"
+        android:background="#BDAEC6"
+        android:layout_below="@+id/coconutcookiesButton"
+        android:layout_alignLeft="@+id/coconutcookiesButton"
+        android:layout_alignStart="@+id/coconutcookiesButton"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/peanutbuttercups_btn"
+        android:id="@+id/peanutbuttercupsButton"
+        android:onClick="peanutbuttercupsOnClick"
+        android:background="#BDAEC6"
+        android:layout_below="@+id/pumkinpieButton"
+        android:layout_alignLeft="@+id/pumkinpieButton"
+        android:layout_alignStart="@+id/pumkinpieButton"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/peanutbutterballs_btn"
+        android:id="@+id/peanutbutterballsButton"
+        android:onClick="peanutbutterballsOnClick"
+        android:background="#BDAEC6"
+        android:layout_below="@+id/peanutbuttercupsButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/nobakecookie_btn"
+        android:id="@+id/nobakecookieButton"
+        android:onClick="nobakecookieOnClick"
+        android:background="#BDAEC6"
+        android:layout_below="@+id/peanutbutterballsButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/chocolatelovers_btn"
+        android:id="@+id/chocolateloversButton"
+        android:onClick="chocolateloversOnClick"
+        android:background="#BDAEC6"
+        android:layout_below="@+id/nobakecookieButton"
+        android:layout_alignLeft="@+id/nobakecookieButton"
+        android:layout_alignStart="@+id/nobakecookieButton"
+        android:layout_marginTop="5dp"/>
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:text="@string/carrotcake_btn"
+        android:id="@+id/carrotcakeButton"
+        android:onClick="carrotcakeOnClick"
+        android:background="#BDAEC6"
+        android:layout_below="@+id/chocolateloversButton"
+        android:layout_alignLeft="@+id/chocolateloversButton"
+        android:layout_alignStart="@+id/chocolateloversButton"
+        android:layout_marginTop="5dp"/>
+
+</RelativeLayout>

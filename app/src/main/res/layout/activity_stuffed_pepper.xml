@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.poweron_studio.eathealthy.StuffedPepper">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="Egg Stuffed Peppers"
+        android:id="@+id/pepperTitle"
+        android:textSize="32sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"/>
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:id="@+id/pepperPic"
+        android:src="@drawable/break5"
+        android:cropToPadding="true"
+        android:contentDescription="@string/pepperPic"
+        android:layout_above="@+id/ingPepper"
+        android:layout_alignRight="@+id/pepperTitle"
+        android:layout_alignEnd="@+id/pepperTitle" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:text="@string/pepper_recipe"
+        android:id="@+id/pepperText"
+        android:textSize="10sp"
+        android:layout_below="@+id/ingPepper"
+        android:layout_alignLeft="@+id/pepperTitle"
+        android:layout_alignStart="@+id/pepperTitle" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/ingText"
+        android:id="@+id/ingPepper"
+        android:textSize="35sp"
+        android:phoneNumber="true"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/pepper_directions"
+        android:id="@+id/pepper_directions"
+        android:textSize="12sp"
+        android:singleLine="false"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>
